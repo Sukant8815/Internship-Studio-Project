@@ -84,20 +84,20 @@
 <body>
     <div class="container">
         <div class="content">
-            <h1Hello ... ! <span class="name">Cloud Enthusiast !</span>
+            <h1Hello ... ! <span class="name">AWS Devops Enthusiast !</span>
                 </h1>
-                <p>My name is <span class="highlighted-name">Kastro</span>, I am an <span class="trainer">AWS and DevOps Trainee</span>.</p>
+                <p>My name is <span class="highlighted-name">Sukant Tekade</span>, I am an <span class="trainer">AWS and DevOps Trainee</span>.</p>
                 <p class="curriculum"><em>My aim is to become a DevOps Engineer:</em></p>
                 <p><strong> AWS Skills:</strong> Introduction to Cloud, Cloud Service Providers, AWS Global Infrastructure, S3, EFS, EC2, Auto Scaling, Load Balancers, VPC, IAM, RDS, Dynamo DB, SNS, Cloud Watch, LighSail, Cloud Trial, SQS, SES, Route 53,
                     SnowBall, Elastic BeanStalk, Cloud Formation</p>
                 <p><strong>Linux and Shell Scripting</strong></p>
                 <p><strong>DevOps Skills:</strong> System Architecture, Introduction to DevOps, SDLC - Concept & Models, Maven, Git, GitHub, Tomcat, Jenkins, Docker, Kubernetes, Terraform, Ansible, SonarQube</p>
                 <p>
-                    <a href="https://youtube.com/playlist?list=PLs-PsDpuAuTdOcZa-DDgG8KRbtMI_XRrC&si=7qb7yp6si8oeNwDh" target="_blank">
-                        <button class="aws-button"><i class="fab fa-aws"></i> AWS FREE Tutorials</button>
+                    <a href="" target="_blank">
+                        <button class="aws-button"><i class="fab fa-aws"></i> Email </button>
                     </a>
-                    <a href="https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh" target="_blank">
-                        <button class="docker-button"><i class="fab fa-docker"></i> Docker - Basics to Brilliance</button>
+                    <a href="" target="_blank">
+                        <button class="docker-button"><i class="fab fa-docker"></i>Github</button>
                     </a>
                     <a href="https://www.linkedin.com/in/tekadesukant/" target="_blank">
                         <button class="linkedin-button"><i class="fab fa-linkedin"></i> tekadesukant - LinkedIn</button>
